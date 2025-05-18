@@ -168,10 +168,10 @@ The retail trading market has seen explosive growth, with over 20 million new tr
 
 ## Support & Community
 
-- **Documentation**: [docs.profinex.com](https://docs.profinex.com)
-- **Community Forum**: [community.profinex.com](https://community.profinex.com)
-- **Video Tutorials**: [YouTube Channel](https://youtube.com/profinex)
-- **Support Email**: support@profinex.com
+- **Documentation**: [docs.profinex.com](https://docs.profinex.shubhyadav.com)
+- **Community Forum**: [community.profinex.com](https://community.profinex.shubhyadav.com)
+- **Video Tutorials**: [YouTube Channel](https://www.youtube.com/playlist?list=PLlc4T7JCwEVeL_n8mAkjR3j9sl4GYhY9Z)
+- **Support Email**: profinex@shubhyadav.com
 - **WhatsApp Support**: [Join our support group](https://chat.whatsapp.com/D2UEKTyi77B2gR62BxVJsC)
 
 ## Development & Contributions
